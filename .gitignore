@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Project specific, added by alex
+# Cannot commit very large files
+circuit_1400.zkey
+src/zkproof/pot19*
