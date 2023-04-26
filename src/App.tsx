@@ -154,9 +154,7 @@ function App() {
 				JSON ascii array input: 
 				<pre>{paddedJsonAscii}</pre>
 				<p>Proof input:</p>
-				<div width="300">
-					<pre>{JSON.stringify(proofInput)}</pre>
-				</div>
+				<pre>{JSON.stringify(proofInput)}</pre>
 
 				<button onClick={generateProof}>Generate Proof</button>
 				<br/>
