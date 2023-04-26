@@ -35,3 +35,16 @@
     transform: rotate(360deg);
   }
 }
+
+pre {
+  width: 700px;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+  border: 1px solid black;
+  margin: 10px;
+  font-size: 0.8em;
+}
